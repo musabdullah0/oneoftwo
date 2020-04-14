@@ -1,0 +1,6 @@
+name = "oneoftwo"
+type = "javascript"
+account_id = "589bcad21f89e4b16b4326b9ebb15e74"
+workers_dev = true
+route = ""
+zone_id = ""
